@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.17",
+    "@mui/material": "^5.15.17",
+    "joi": "^17.13.1",
+    "joi-password-complexity": "^5.2.0",
+    "react-router-dom": "^6.23.1",
+    "react-toastify": "^10.0.5",
+    "sass": "^1.77.1"
+  }
+}
